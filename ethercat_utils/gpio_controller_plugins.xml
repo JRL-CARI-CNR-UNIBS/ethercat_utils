@@ -1,0 +1,5 @@
+<library path="ethercat_utils">
+  <class name="ethercat_utils/GPIOController" type="ethercat_utils::GPIOController" base_class_type="controller_interface::ControllerInterface">
+    <description>This controller publishes the GPIOs using the interface names.</description>
+  </class>
+</library>
